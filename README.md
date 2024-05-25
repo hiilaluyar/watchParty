@@ -1,5 +1,5 @@
 # Grup-Cana
-![logo-Grupcana](https://github.com/hiilaluyar/watchParty/assets/101458424/879dd1c5-553b-49e7-a1e9-0f38602ccc38)
+![logo-Grupcana](https://github.com/nacibaran/watchParty/assets/101458424/879dd1c5-553b-49e7-a1e9-0f38602ccc38)
 
 Watch videos, listen to music or tune in for a live stream and all that with your friends. Grup-Cana is a software
 that lets you synchronise your playback with all your friends with a clean modern Web-UI written
@@ -76,7 +76,7 @@ docker run -d -p 8081:8081 -e REDIS_URL=redis://your-ip:6379 websyncplay/websync
 To get started with running the project directly via node, clone the repository via:
 
 ```bash
-git clone https://github.com/nacibaran/GrupcanaApp.git
+git clone https://github.com/hiilaluyar/watchParty.git
 ```
 
 When you are trying to develop on the project simply run
